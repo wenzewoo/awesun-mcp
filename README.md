@@ -126,5 +126,5 @@ AI 可协助用户定位问题，直接操作用户设备查看设置、运行�
 
 ## 支持
 - **内测申请**: [https://sunlogin.oray.com/product/mcp](https://sunlogin.oray.com/product/mcp)
-- **使用指南（内部）**: [https://doc.weixin.qq.com/doc/w3_AQUAeQYrAO0CNn7l1bw0bRzKUt9OU?scode=AMQArgfcAAse38Yrqe                     ](https://service.oray.com/question/50091.html)      
+- **使用指南（内部）**: [https://service.oray.com/question/50091.html](https://service.oray.com/question/50091.html)      
 
